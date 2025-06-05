@@ -1,4 +1,4 @@
-# 🌦️ WeatherSense Pro – Rain Prediction using Machine Learning
+# 🌦️ Rain Prediction using Machine Learning
 
 A machine learning-based application that predicts the likelihood of rain using real-time weather data. This project uses historical weather records to train a model and delivers an interactive prediction interface via a modern web app built with **Streamlit**.
 
